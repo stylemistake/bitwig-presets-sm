@@ -8,6 +8,8 @@ of Bitwig Studio 2.0.
 
 ## Changelog
 
+**2017-03-10** - Fixed Saturator having only the left channel.
+
 **2017-03-09** - First release with Saturator, Spectrum and Vocoder.
 
 
