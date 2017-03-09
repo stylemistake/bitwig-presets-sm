@@ -8,7 +8,7 @@ of Bitwig Studio 2.0.
 
 ## Changelog
 
-**2017-03-09** - First release with Saturator and Spectrum.
+**2017-03-09** - First release with Saturator, Spectrum and Vocoder.
 
 
 ## Contacts
