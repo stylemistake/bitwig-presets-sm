@@ -8,7 +8,7 @@ of Bitwig Studio 2.0.
 
 ## Changelog
 
-**2017-03-15** - Added more devices (Beat Fader and other generic presets),
+**2017-03-15** - Added more devices (Beat Fader, Mute and other generic presets),
 updated Vocoder (thanks to *Kevin Green*), simplified preset names.
 
 **2017-03-10** - Fixed Saturator having only the left channel.
