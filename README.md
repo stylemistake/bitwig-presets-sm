@@ -1,12 +1,14 @@
 # Bitwig presets
 
 A collection of Bitwig device presets that explore the new modulation system
-of Bitwig Studio 2.0.
+of Bitwig Studio 2.1.
 
 [Demo of Saturator device on Youtube](https://www.youtube.com/watch?v=wNrMiP9-EPk).
 
 
 ## Changelog
+
+**2017-05-02** - Added Saturator 3, Feedback Apparatus, improved other devices. Requires Bitwig Studio **2.1**!
 
 **2017-03-16** - Saturator 2 optimizations.
 
